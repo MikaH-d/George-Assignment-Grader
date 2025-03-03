@@ -113,7 +113,7 @@ pip install python-docx pymupdf
 python main.py
 
 # Or with command-line interface mode
-python -m assignment_grader.main --cli
+python main.py --cli
 ```
 
 ### Workflow
